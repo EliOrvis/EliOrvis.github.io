@@ -1,0 +1,261 @@
+body {
+
+
+font: 20px Montserrat, sans-serif;
+
+
+line-height: 1.8;
+
+
+color: Black;
+
+
+}
+
+ol ol {font-size: smaller;}
+
+p {font-size: 16px;}
+
+
+.margin {margin-bottom: 45px;}
+
+.mask1 {
+  -webkit-mask-image: linear-gradient(to top, rgba(0,0,0,0.3), black 60%);
+}
+
+
+.bg-1 {
+
+background-image: url("../Images/algebraic_numbers.png");
+
+background-size: cover;
+
+background-position: bottom;
+
+color: #ffffff;
+
+}
+
+
+.bg-2 {
+
+
+background-color: *Black*/
+
+
+color: #ffffff;
+
+
+}
+
+.bg-3 {
+
+
+background-image: url("../Images/Arboreal galois representation.png");
+
+background-size: cover;
+
+background-position: bottom;
+
+color: #ffffff;
+
+
+}
+
+.navbar {
+
+padding-top:0 !important;
+
+padding-bottom:0 !important;
+
+margin: 0 !important;
+
+border: 0;
+
+
+border-radius: 0;
+
+
+margin-bottom: 0;
+
+
+font-size: 12px;
+
+
+letter-spacing: 2px;
+
+
+}
+
+
+.navbar-brand {
+
+  padding-top: 0;
+
+  padding-bottom: 0;
+
+}
+
+.navbar-nav li a:hover {
+
+background-color: rgb(77,74,72) !important;
+
+color: #ffff54 !important;
+
+height:100%;
+
+
+}
+
+.navbar-nav .nav-link {
+
+  text-align: center;
+
+}
+
+.navbar-nav li a {
+
+color: #ffffff !important;
+
+}
+
+.navbar-dark .navbar-toggle {
+
+border: 0;
+
+}
+
+.navbar {
+
+padding-top: 0;
+
+padding-bottom: 0;
+
+}
+
+.navbar-dark .navbar-collapse, .navbar-dark .navbar-form {
+
+border-color: #999999;
+
+}
+
+.img-fluid {
+
+width: 100%;
+
+height: 100%;
+
+}
+
+.fill-page {
+
+height:100vh;
+
+padding-bottom:0;
+
+margin-top:50px;
+
+}
+
+.navbar-collapse.collapse.in {
+  display: block!important;
+}
+
+.navbar-dark .navbar-toggler {
+  border: none;
+}
+
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+    outline: none;
+    box-shadow: none;
+}
+
+body{
+  overflow-y: scroll;
+}
+
+.contact-me-class {
+
+position: absolute;
+
+bottom: 0;
+
+}
+
+.teaching-bg {
+
+  background-image: url("../Images/empty-blackboard.jpg");
+
+  background-size: cover;
+
+}
+
+.teaching-table {
+
+  background: none;
+
+}
+
+.table td {
+
+  width:33%;
+
+}
+
+table.table-bordered > thead > tr > th{
+    border-top:none;
+    border-bottom:solid;
+    border-right:none;
+    border-left:none;
+}
+table.table-bordered > tbody > tr > td{
+    border-top:solid;
+    border-top-width:2px;
+    border-bottom:none;
+    border-left:none;
+    border-right:none;
+}
+
+table.teaching-table > tbody > tr > th {
+
+  border:none;
+
+}
+
+a:hover {
+
+  text-decoration: none;
+
+}
+
+a:visited {
+
+  color:rgb(106,44,108);
+
+}
+
+.fortaleza-text {
+
+  background-color: rgba(77,74,72,0.9);
+  color: #ffffff;
+  border-radius: 10px;
+
+}
+
+.places-text {
+
+  margin: 10px;
+  padding: 5px 15px;
+
+}
+
+.clinton-text {
+
+  border-radius: 10px;
+  border-color: black;
+  border-style: solid;
+  border-width: 1px;
+
+}
